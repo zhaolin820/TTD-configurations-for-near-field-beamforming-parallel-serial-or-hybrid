@@ -27,6 +27,6 @@ If you in any way use this code for research, please cite our original articles 
   title={{TTD} configurations for near-field beamforming: Parallel, serial, or hybrid?},
   author={Wang, Zhaolin and Mu, Xidong and Liu, Yuanwei and Schober, Robert},
   journal={{IEEE} Trans. Commun.},
-  year={accepted to appear, 2023}
+  year={accepted to appear, 2024}
 }
 ```
