@@ -2,7 +2,7 @@
 
 The code for the papers 
 
-**Z. Wang, X. Mu, Y. Liu, and R. Schober, “TTD Configurations for Near-Field Beamforming: Parallel, Serial, or Hybrid?,” *IEEE Trans. Commun.*, Early Access, Mar, 2024.** [[IEEE](https://ieeexplore.ieee.org/abstract/document/10458958)] [[Arxiv](https://arxiv.org/abs/2309.06861)]
+**Z. Wang, X. Mu, Y. Liu, and R. Schober, “TTD Configurations for Near-Field Beamforming: Parallel, Serial, or Hybrid?,” *IEEE Trans. Commun.*, vol. 72, no. 6, pp. 3783-3799, Jun. 2024.** [[IEEE](https://ieeexplore.ieee.org/abstract/document/10458958)] [[Arxiv](https://arxiv.org/abs/2309.06861)]
 
 
 ## Running the simulations
@@ -27,6 +27,11 @@ If you in any way use this code for research, please cite our original articles 
   title={{TTD} configurations for near-field beamforming: Parallel, serial, or hybrid?},
   author={Wang, Zhaolin and Mu, Xidong and Liu, Yuanwei and Schober, Robert},
   journal={{IEEE} Trans. Commun.},
-  year={accepted to appear, 2024}
+  year={2024},
+  month=jun,
+  volume={72},
+  number={6},
+  pages={3783-3799}
 }
 ```
+
